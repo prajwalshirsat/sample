@@ -1,0 +1,10 @@
+{
+    "cat":[
+      
+       {"servicesName" : " service for senior citizens"},
+       {"servicesName" : " cooking"},
+       {"servicesName" : "  house cleaning"},
+       {"servicesName" : " utensils washing"},
+       {"servicesName" : "cloth washing"}
+    ]
+}
